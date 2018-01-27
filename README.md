@@ -1,2 +1,2 @@
 # hello-world
-hhh
+I'm a student of BUPT
